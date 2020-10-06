@@ -1,0 +1,500 @@
+    3  ssh -i "ansible12.pem" ubuntu@ec2-52-66-247-3.ap-south-1.compute.amazonaws.com
+    4  ssh -i "ansible12.pem" ubuntu@ec2-52-66-247-3.ap-south-1.compute.amazonaws.com
+    5  ssh -i "ansible12.pem" ubuntu@ec2-52-66-247-3.ap-south-1.compute.amazonaws.com
+    6  ssh -i "ansible12.pem" ubuntu@ec2-52-66-247-3.ap-south-1.compute.amazonaws.com
+    7  ssh -i "ansible12.pem" ubuntu@ec2-52-66-247-3.ap-south-1.compute.amazonaws.com
+    8  ssh -i "ansible12.pem" ubuntu@ec2-52-66-247-3.ap-south-1.compute.amazonaws.com
+    9  ssh -i "ansible12.pem" ubuntu@ec2-52-66-247-3.ap-south-1.compute.amazonaws.com
+   10  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   11  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   12  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   13  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   14  ssh -i "ansible12.pem" ubuntu@ec2-13-233-118-153.ap-south-1.compute.amazonaws.com
+   15  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   16  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   17  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   18  ssh -i "ansible12.pem" ubuntu@ec2-13-233-159-209.ap-south-1.compute.amazonaws.com
+   19  cleaer
+   20  cleae
+   21  clear
+   22  ssh -i "ansible12.pem" ubuntu@ec2-13-233-118-153.ap-south-1.compute.amazonaws.com
+   23  kamal@LAPTOP-V4QMBCMC MINGW64 ~/Desktop/Devops practice (master)
+   24  $
+   25  ssh -i "ansible12.pem" ubuntu@ec2-13-126-175-196.ap-south-1.compute.amazonaws.com
+   26  :
+   27  clear
+   28  ssh -i "ansible12.pem" ubuntu@ec2-13-126-175-196.ap-south-1.compute.amazonaws.com
+   29  ssh -i "ansible12.pem" ubuntu@ec2-13-126-175-196.ap-south-1.compute.amazonaws.com
+   30  i 
+   31  ssh -i "ansible12.pem" ubuntu@ec2-13-126-175-196.ap-south-1.compute.amazonaws.com
+   32  ssh -i "ansible12.pem" ubuntu@ec2-13-126-175-196.ap-south-1.compute.amazonaws.com
+   33  ssh -i "ansible12.pem" ubuntu@ec2-13-233-91-51.ap-south-1.compute.amazonaws.com
+   34  s
+   35  ssh -i "ansible12.pem" ubuntu@ec2-13-233-91-51.ap-south-1.compute.amazonaws.com
+   36  ssh -i "ansible12.pem" ubuntu@ec2-13-233-91-51.ap-south-1.compute.amazonaws.com
+   37  ssh -i "ansible12.pem" ubuntu@ec2-13-233-91-51.ap-south-1.compute.amazonaws.com
+   38  ssh -i "ansible12.pem" ubuntu@ec2-13-233-91-51.ap-south-1.compute.amazonaws.com
+   39  ssh -i "ansible12.pem" ubuntu@ec2-13-233-91-51.ap-south-1.compute.amazonaws.com
+   40  ssh -i "ansible12.pem" ubuntu@ec2-13-232-133-141.ap-south-1.compute.amazonaws.com
+   41  ssh -i "ansible12.pem" ubuntu@ec2-13-232-133-141.ap-south-1.compute.amazonaws.com
+   42  ssh -i "ansible12.pem" ubuntu@ec2-13-232-133-141.ap-south-1.compute.amazonaws.com
+   43  ssh -i "ansible12.pem" ubuntu@ec2-13-232-133-141.ap-south-1.compute.amazonaws.com
+   44  ssh -i "terraform.pem" ubuntu@ec2-18-216-95-215.us-east-2.compute.amazonaws.com
+   45  ssh -i "terraform.pem" ubuntu@ec2-18-216-95-215.us-east-2.compute.amazonaws.com
+   46  ssh -i "terraform.pem" ubuntu@ec2-18-222-144-88.us-east-2.compute.amazonaws.com
+   47  ssh -i "terraform.pem" ubuntu@ec2-18-222-144-88.us-east-2.compute.amazonaws.com
+   48  ssh -i "terraform.pem" ubuntu@ec2-3-14-15-63.us-east-2.compute.amazonaws.com
+   49  ssh -i "terraform.pem" ubuntu@ec2-3-14-15-63.us-east-2.compute.amazonaws.com
+   50  ssh -i "terraform.pem" ubuntu@ec2-3-14-15-63.us-east-2.compute.amazonaws.com
+   51  ssh -i "terraform.pem" ubuntu@ec2-18-222-139-206.us-east-2.compute.amazonaws.com
+   52  ssh -i "terraform.pem" ubuntu@ec2-18-222-139-206.us-east-2.compute.amazonaws.com
+   53  ssh -i "terraform.pem" ubuntu@ec2-18-222-139-206.us-east-2.compute.amazonaws.com
+   54  ssh -i "terraform.pem" ubuntu@ec2-18-222-139-206.us-east-2.compute.amazonaws.com
+   55  ssh -i "terraform.pem" ubuntu@ec2-18-222-139-206.us-east-2.compute.amazonaws.com
+   56  ssh -i "terraform.pem" ubuntu@ec2-18-222-139-206.us-east-2.compute.amazonaws.com
+   57  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   58  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   59  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   60  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   61  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   62  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   63  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   64  clear
+   65  clear
+   66  ssh -i "terraform.pem" ubuntu@ec2-18-219-27-40.us-east-2.compute.amazonaws.com
+   67  clea
+   68  clear
+   69  ssh -i "bogo.pem" ubuntu@ec2-13-126-50-98.ap-south-1.compute.amazonaws.com
+   70  ssh -i "bogo.pem" ubuntu@ec2-13-126-50-98.ap-south-1.compute.amazonaws.com
+   71  lear
+   72  clear
+   73  ls
+   74  ssh -i "bogo.pem" ubuntu@ec2-13-126-50-98.ap-south-1.compute.amazonaws.com
+   75  ssh -i "bogo.pem" ubuntu@ec2-13-126-50-98.ap-south-1.compute.amazonaws.com
+   76  ssh -i "bogo.pem" ubuntu@ec2-13-232-56-107.ap-south-1.compute.amazonaws.com
+   77  ssh -i "bogo.pem" ubuntu@ec2-13-233-66-4.ap-south-1.compute.amazonaws.com
+   78  ssh -i "bogo.pem" ubuntu@ec2-13-233-66-4.ap-south-1.compute.amazonaws.com
+   79  ssh -i "bogo.pem" ubuntu@ec2-13-233-66-4.ap-south-1.compute.amazonaws.com
+   80  ssh -i "bogo.pem" ubuntu@ec2-13-233-66-4.ap-south-1.compute.amazonaws.com
+   81  ssh -i "bogo.pem" ubuntu@ec2-13-233-66-4.ap-south-1.compute.amazonaws.com
+   82  ssh -i "bogo.pem" ubuntu@ec2-13-233-66-4.ap-south-1.compute.amazonaws.com
+   83  ssh -i "bogo.pem" ubuntu@ec2-13-233-72-36.ap-south-1.compute.amazonaws.com
+   84  ssh -i "bogo.pem" ubuntu@ec2-13-232-206-60.ap-south-1.compute.amazonaws.com
+   85  clear
+   86  git clone https://github.com/docker/example-voting-app
+   87  cd example-voting-app/
+   88  cat docker-stack.yml
+   89  ssh -i "Devops123.pem" ubuntu@ec2-13-235-99-199.ap-south-1.compute.amazonaws.com
+   90  ssh -i "Devops123.pem" ubuntu@ec2-13-233-184-189.ap-south-1.compute.amazonaws.com
+   91  ssh -i "Devops123.pem" ubuntu@ec2-13-233-184-189.ap-south-1.compute.amazonaws.com
+   92  ssh -i "Devops123.pem" ubuntu@ec2-13-235-99-199.ap-south-1.compute.amazonaws.com
+   93  ssh -i "Devops123.pem" ubuntu@ec2-13-233-184-189.ap-south-1.compute.amazonaws.com
+   94  ssh -i "Devops123.pem" ubuntu@ec2-13-233-184-189.ap-south-1.compute.amazonaws.com
+   95  ssh -i "Devops123.pem" ubuntu@ec2-13-233-184-189.ap-south-1.compute.amazonaws.com
+   96  ssh -i "K8S.pem" ubuntu@ec2-13-126-69-87.ap-south-1.compute.amazonaws.com
+   97  tar -cvzf python.tar.gz  Python
+   98  ssh -i "testing.pem" ubuntu@ec2-54-169-74-31.ap-southeast-1.compute.amazonaws.com
+   99  ssh -i "hyd.pem" ubuntu@ec2-54-255-169-15.ap-southeast-1.compute.amazonaws.com
+  100  ssh -i "hyd.pem" ubuntu@ec2-54-255-169-15.ap-southeast-1.compute.amazonaws.com
+  101  ssh -i "hyddd.pem" ubuntu@ec2-54-254-250-221.ap-southeast-1.compute.amazonaws.com
+  102  ssh -i "hyddd.pem" ubuntu@ec2-54-254-250-221.ap-southeast-1.compute.amazonaws.com
+  103  ssh -i "hyddd.pem" ubuntu@ec2-13-212-35-37.ap-southeast-1.compute.amazonaws.com
+  104  ssh -i "hyddd.pem" ubuntu@ec2-13-212-35-37.ap-southeast-1.compute.amazonaws.com
+  105  ssh -i "hyddd.pem" ubuntu@ec2-54-169-232-115.ap-southeast-1.compute.amazonaws.com
+  106  ssh -i "hyddd.pem" ubuntu@ec2-54-169-232-115.ap-southeast-1.compute.amazonaws.com
+  107  ssh -i "hyddd.pem" ubuntu@ec2-13-229-204-83.ap-southeast-1.compute.amazonaws.com
+  108  vim tesy.sh
+  109  ssh -i "hyddd.pem" ubuntu@ec2-18-141-234-197.ap-southeast-1.compute.amazonaws.com
+  110  ssh -i "hyddd.pem" ubuntu@ec2-18-141-234-197.ap-southeast-1.compute.amazonaws.com
+  111  ssh -i "hyddd.pem" ubuntu@ec2-18-141-234-197.ap-southeast-1.compute.amazonaws.com
+  112  ssh -i "hyddd.pem" ubuntu@ec2-18-141-234-197.ap-southeast-1.compute.amazonaws.com
+  113  ssh -i "hyddd.pem" ubuntu@ec2-13-212-36-135.ap-southeast-1.compute.amazonaws.com
+  114  ssh -i "hyddd.pem" ubuntu@ec2-13-212-36-135.ap-southeast-1.compute.amazonaws.com
+  115  ssh -i "hyddd.pem" ubuntu@ec2-13-212-36-135.ap-southeast-1.compute.amazonaws.com
+  116  ssh -i "hyddd.pem" ubuntu@ec2-13-250-60-6.ap-southeast-1.compute.amazonaws.com
+  117  ssh -i "hyddd.pem" ubuntu@ec2-13-250-60-6.ap-southeast-1.compute.amazonaws.com
+  118  ssh -i "hyd.pem" ubuntu@ec2-18-138-212-120.ap-southeast-1.compute.amazonaws.com
+  119  ssh -i "hyd.pem" ubuntu@ec2-18-138-212-120.ap-southeast-1.compute.amazonaws.com
+  120  ssh -i "hyd.pem" ubuntu@ec2-18-138-212-120.ap-southeast-1.compute.amazonaws.com
+  121  ssh -i "hyddd.pem" ubuntu@ec2-13-250-60-6.ap-southeast-1.compute.amazonaws.com
+  122  ssh -i "hyddd.pem" ubuntu@ec2-54-169-240-242.ap-southeast-1.compute.amazonaws.com
+  123  ssh -i "hyd.pem" ubuntu@ec2-13-212-124-16.ap-southeast-1.compute.amazonaws.com
+  124  ssh -i "hyd.pem" ubuntu@ec2-13-212-124-16.ap-southeast-1.compute.amazonaws.com
+  125  ssh -i "hyd.pem" ubuntu@ec2-13-212-124-16.ap-southeast-1.compute.amazonaws.com
+  126  ssh -i "hyddd.pem" ubuntu@ec2-13-250-29-120.ap-southeast-1.compute.amazonaws.com
+  127  ping localhost
+  128  ping 127.0.0.1
+  129  cat /etc/hosts
+  130  vim /etc/hosts 
+  131  ssh -i "hyd.pem" ubuntu@ec2-13-212-124-16.ap-southeast-1.compute.amazonaws.com
+  132  ssh -i "hyddd.pem" ubuntu@ec2-13-250-29-120.ap-southeast-1.compute.amazonaws.com
+  133  ssh -i "hyddd.pem" ubuntu@ec2-13-250-29-120.ap-southeast-1.compute.amazonaws.com
+  134  ssh -i "hyddd.pem" ubuntu@ec2-13-250-29-120.ap-southeast-1.compute.amazonaws.com
+  135  ssh -i "hyddd.pem" ubuntu@ec2-13-212-91-76.ap-southeast-1.compute.amazonaws.com
+  136  telnet 127.0.0.1
+  137  ssh -i "hyddd.pem" ubuntu@ec2-13-212-91-76.ap-southeast-1.compute.amazonaws.com
+  138  git --version
+  139  mkdir test
+  140  cd test
+  141  ls -ltr
+  142  cd ../
+  143   ssh -i "hyddd.pem" ubuntu@ec2-13-212-81-165.ap-southeast-1.compute.amazonaws.com
+  144  ls -ltr
+  145  cd aws
+  146  git clone https://github.com/teleabcde/learning.git
+  147  cat learningGit 
+  148  ssh -i "hyddd.pem" ubuntu@ec2-13-212-81-165.ap-southeast-1.compute.amazonaws.com
+  149  wget https://pypi.org/project/PyMongo-OpenTracing/0.0.3/
+  150  curl https://pypi.org/project/PyMongo-OpenTracing/0.0.3/
+  151  touch v1 v2
+  152  ls -ltr
+  153  touch v1_v2
+  154  ls -ltr
+  155  rm -rf v1 v2 v1_v2
+  156  touch v1_v2;touch v2
+  157  cccc
+  158  clear
+  159  ls -ltr
+  160  rm -rf v1_v2  v2
+  161  git clone https://github.com/teleabcde/learning.git
+  162  ls -ltr
+  163  clear
+  164  git clone https://github.com/teleabcde/learning.git
+  165  ls -ltr
+  166  git config --local
+  167  git config --list
+  168  git config --user.name tele.abcde
+  169  git config --global user.name "tele.abcde"
+  170  git config --global user.email "tele.abcde@gmail.com"
+  171  git config --list
+  172  git config --global core.editor "vi"
+  173  clear
+  174  ls -ltr
+  175  git branch
+  176  cd learning/
+  177  git branch
+  178  ls -la
+  179  cd .git
+  180  ls -ltr
+  181  cat config 
+  182  cd ../
+  183  ls -ltr
+  184  ls -la
+  185  cd ../
+  186  ls -la
+  187  git branch
+  188  cd learning/
+  189  ls -ltr
+  190  ls -la
+  191  ls -ltr
+  192  git branch
+  193  vim kamal.txt
+  194  ls -ltr
+  195  git config --list
+  196  git config --list
+  197  ls -ltr
+  198  cat > tele.txt
+  199  ls -ltr
+  200  git status
+  201  git branch
+  202  git add -A
+  203  git add -a
+  204  clear
+  205  git add -A
+  206  git status
+  207  git commit -m "i am commiting kamal & tele files"
+  208  git status
+  209  git push origin master
+  210  git remote -v
+  211  git push  -u origin/master
+  212  git pull
+  213  ls -ltr
+  214  git pull
+  215  ls -ltr
+  216  git status
+  217  vim anwar.txt 
+  218  git status
+  219  git add -A
+  220  git commit -m " modifeied anwar file "
+  221  git status
+  222  gir push origin master
+  223  git push origin master
+  224  clear
+  225  git log
+  226  ls -ltr
+  227  git pull
+  228  ls -ltr
+  229  git log
+  230  ls -ltr
+  231  git checkout 8b7225539ee4ec73ed9ebc4fcbd0e00eb69873df
+  232  ls -ltr
+  233  git checkout master
+  234  ls -ltr
+  235  clear
+  236  ls -ltr
+  237  git log
+  238  cat > tim
+  239  ls -ltr
+  240  git status
+  241  git add -A
+  242  git status
+  243  git commit -m "added tim file"
+  244  git push origin master
+  245  git log
+  246  git pull
+  247  git log
+  248  git checkout 1652b8d785de1f2f0d69c9ead3190d810546d92a
+  249  la -ltr
+  250  ls -ltr
+  251  cat anwar.txt 
+  252  git status
+  253  git checkout HEAD
+  254  ls -ltr
+  255  cat anwar.txt 
+  256  git log
+  257  git checkout origin/HEAD
+  258  git log
+  259  git checkout master
+  260  git log
+  261  git log
+  262  git cheery-pick  86068ec42fe6919f46bded99b8977db77fb57fde
+  263  git cherry-pick  86068ec42fe6919f46bded99b8977db77fb57fde
+  264  git cherry-pick  86068ec42fe6919f46bded99b8977db77fb57fde
+  265  git log
+  266  ls -ltr
+  267  git branch
+  268  git checkout -b branch1
+  269  ls -ltr
+  270  git branch
+  271  git checkout -b branch2
+  272  git branch
+  273  git status
+  274  git push origin branch2
+  275  git checkout branch1
+  276  git branch
+  277  git push origin branch2
+  278  git push origin branch1
+  279  ls -ltr
+  280  git checkout master
+  281  ls -ltr
+  282  vim anwar.txt 
+  283  vim anwar1.txt 
+  284  ls -ltr
+  285  git status
+  286  git add -A
+  287  git commit -m "added a new file & modified anwar file"
+  288  git push origin master
+  289  clear
+  290  ls -ltr
+  291  git checkout branch1
+  292  ls -ltr
+  293  git checkout master
+  294  git checkout branch2
+  295  vim kamal1.txt
+  296  git status
+  297  git add -A
+  298  git status
+  299  git commit -m " added new files with name as kamal1"
+  300  git push origin branch2
+  301  git checkout master
+  302  git pull
+  303  git fetch --all
+  304  ls -ltr
+  305  vim kamal.txt 
+  306  git status
+  307  git add kamal.txt 
+  308  git commit -m "added fewlinesin  kamal.txt"
+  309  git pull
+  310  git push origin master
+  311  clear
+  312  git pull
+  313  git fetch --all
+  314  git branch
+  315  git checkout branch2
+  316  ls -ltr
+  317  git checkout master
+  318  git checkout branch2
+  319  git merge master
+  320  git branch
+  321  cat kamal
+  322  ls -ltr
+  323  cat kamal.txt
+  324  git push origin branch2
+  325  git pull
+  326  git status
+  327  git push origin branch2
+  328  git branch
+  329  git log
+  330  ls -ltr
+  331  git push origin branch2
+  332  git push
+  333  git remote -v
+  334  git push --set-upstream origin branch2
+  335  git push --set-upstream origin branch2
+  336  git log
+  337  git status
+  338  git add -A
+  339  git commit -m " added merge "
+  340  git status
+  341  git push origin branch2\
+  342  git push origin branch2
+  343  git pull
+  344  git pull branch2
+  345  git pull remote branch2
+  346  git pull origin branch2
+  347  git pstatus
+  348  git status
+  349  git push origin branch2
+  350  history 
+  351  git init project1
+  352  ls -ltr
+  353  cd project1/
+  354  ls -ltr
+  355  vim read.tx
+  356  git status
+  357  mv read.tx  read.txt
+  358  git status
+  359  git add -A
+  360  git commit -m "added readmw file"
+  361  git push origin master
+  362  git remote add origin https://github.com/teleabcde/project1.git
+  363  git remote -v
+  364  git remote add origin https://github.com/teleabcde/project2.git
+  365  git remote -v
+  366  git push origin master
+  367  ls -ltr
+  368  mv read.txt  read1.txt
+  369  ls -ltr
+  370  git status
+  371  mv read1.txt  read.txt
+  372  git status
+  373  git mv read.txt read1.txt
+  374  git status
+  375  clear
+  376  ls -ltr
+  377  cd ~
+  378  ls -ltr
+  379  cd test
+  380  clear
+  381  git checkout master
+  382  git branch al
+  383  git branch all
+  384  git branch --all
+  385  git branch -d al all
+  386  git branch -b 123
+  387  clear
+  388  git branch --all
+  389  git branch -b checkout ert
+  390  git checkout branch3
+  391  git branch branch3
+  392  git branch --all
+  393  git branch -D branch3
+  394  clear
+  395  git pull
+  396  git fetch --all
+  397  clear
+  398  git branch
+  399  git branch --all
+  400  git diff branch1 ..branch2
+  401  git diff master..branch2
+  402  clear
+  403  ls -ltr
+  404  git log
+  405  git show 57c47e293543f831757c23b839bcf88efed63e21
+  406  git log
+  407  git checkout ae395e88
+  408  git log
+  409  git status
+  410  git add -A
+  411  git status
+  412  git commit -m " head moved:
+  413  "
+  414  git push
+  415  git push origin HEAD:master
+  416  git checkout HEAD
+  417  git log
+  418  git pull
+  419  git remote -v
+  420  git checkout master
+  421  git log
+  422  ls -ltr
+  423  git rest --soft
+  424  git reset --soft
+  425  git log
+  426  git reset --soft  ae395e884dbce1b7cd4131de5669461bec173d49
+  427  git log
+  428  git pull
+  429  git log
+  430  git reset --soft  ae395e884dbce1b7cd4131de5669461bec173d49
+  431  git status
+  432  git pull
+  433  git status
+  434  git reset --mixed  ae395e884dbce1b7cd4131de5669461bec173d49
+  435  git status
+  436  git log
+  437  git pull
+  438  git log
+  439  git status
+  440  git add  A
+  441  git add  -A
+  442  git commit -m " aaded files"
+  443  git push
+  444  git pull
+  445  git push
+  446  git log
+  447  git reset --hard ae395e884dbce1b7cd4131de5669461bec173d49
+  448  git log
+  449  git status
+  450  git pull
+  451  clear
+  452  git log
+  453  clear
+  454  git cherry-pick commit 16d69e4bf1f1184e3e60bfe445ca7fc96e786379 (HEAD -> master, origin/master, origin/HEAD)
+  455  Merge: 4b61c17 57c47e2
+  456  Author: tele.abcde <tele.abcde@gmail.com>
+  457  Date:   Sun Oct 4 11:47:43 2020 +0530
+  458  git cherry-pick 16d69e4bf1f1184e3e60bfe445ca7fc96e786379
+  459  git cherry-pick -m " commit messge" 16d69e4bf1f1184e3e60bfe445ca7fc96e786379
+  460  git log
+  461  clear
+  462  git cherry-pick  4b61c17dff37ab60461470584c8aee2f8e5ce750
+  463  git log
+  464  git stash
+  465  git checkout master
+  466  git log
+  467  git cherry-pick 57c47e293543f831757c23b839bcf88efed63e21
+  468  git cherry-pick 57c47e293543f831757c23b839bcf88efed63e21 --allow-empty
+  469  git cherry-pick --allow-empty  57c47e293543f831757c23b839bcf88efed63e21 
+  470  git log
+  471  git stash
+  472  git status
+  473  git cherry-pick --continue
+  474  git cherry-pick --abort
+  475  clear
+  476  git branch
+  477  git push origin :branch1
+  478  git push origin :branch2
+  479  git log
+  480  git tag -t "thisissprint1"   ae395e884dbce1b7cd4131de5669461bec173d49
+  481  git tag -a "thisissprint1"   ae395e884dbce1b7cd4131de5669461bec173d49
+  482  git tag -a "sprint1"   ae395e884dbce1b7cd4131de5669461bec173d49
+  483  git status
+  484  git push
+  485  git tag
+  486  git  status
+  487  git commit -m " yyjjjj"
+  488  git push origin sprint1
+  489  git log
+  490  git log --online
+  491  git log --oneline
+  492  git diff 99fc3c7..8b72255 
+  493  git log
+  494  clear
+  495  vim 123.txt
+  496  git status
+  497  git add -A
+  498  git status
+  499  git rm --cached 123.txt
+  500  git status
+  501  history
+  502  history  >> git.txt
